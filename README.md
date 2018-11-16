@@ -18,3 +18,4 @@ jira3开发完成
 
 jira1开发完成。
 
+release1.0 分支 出了个bug修复下 
